@@ -8,5 +8,5 @@ The project begins with some exploratory data analysis through data visualisatio
 
 ## Notes
 Some issues found a long the way were:
-1. The data set is fairly small (only 30 rows) which made accurate foreceasting more difficult.
+1. The data set is fairly small (only 30 rows), making accurate foreceasting difficult.
 3. The UK Gov's plans for Net Zero set specific targets for the use of renewables for electricity generation while the data set covers only energy as a whole. The project could draw more meaningful insights if there was a way to make predicitions specifically for electricty generation.
